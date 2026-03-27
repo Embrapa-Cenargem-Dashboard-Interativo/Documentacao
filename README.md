@@ -1,6 +1,6 @@
 # Documentação do Projeto
 
-Este repositório tem como objetivo centralizar e organizar a documentação do projeto de desenvolvimento do sistema.
+Este repositório tem como objetivo centralizar e organizar a documentação do projeto "Embrapa Cenargen: Dashboard Interativo", desenvolvido na disciplina Projeto Integrador III do Centro Universitário de Brasília (CEUB).
 
 Aqui serão armazenados os principais artefatos produzidos ao longo do ciclo de vida do projeto, incluindo documentos de análise, definição de requisitos, planejamento e apoio ao desenvolvimento.
 

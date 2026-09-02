@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/227983be-5ccd-4f52-9757-c3374984d00d" />
-</p>
+![logo_ceub](imagens/logo_ceub.png)
 
 # Documento de Visão - Embrapa Cenargen: CVGWeb 
 
@@ -19,9 +17,7 @@
 - Miguel Artur de Castro Miranda
 - Lucas Andrade Fonseca
 
-<p align="center">
-  <img width="279" height="214" alt="image" src="https://github.com/user-attachments/assets/87016265-0975-4bcd-ba32-23aa73e456a6" />
-</p>
+![logo_embrapa](imagens/logo_embrapa.png)
 
 ---
 

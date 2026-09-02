@@ -1,3 +1,5 @@
+<img width="376" height="184" alt="image" src="https://github.com/user-attachments/assets/926839d2-b757-49fb-a2b5-52aeabee121d" />
+
 # Documento de Visão - Embrapa Cenargen: CVGWeb 
 
 **Centro Universitário de Brasília (CEUB)**  
@@ -14,6 +16,8 @@
 - Luis Guilherme Andrade Palhares de Melo
 - Miguel Artur de Castro Miranda
 - Lucas Andrade Fonseca
+
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/87016265-0975-4bcd-ba32-23aa73e456a6" />
 
 ---
 

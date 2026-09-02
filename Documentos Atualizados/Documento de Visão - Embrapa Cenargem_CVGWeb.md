@@ -1,5 +1,3 @@
-[Atualizar nossas funções](#6-partes-interessadas)
-
 # Documento de Visão - Embrapa Cenargen: CVGWeb 
 
 **Centro Universitário de Brasília (CEUB)**  
@@ -128,11 +126,11 @@ Diretamente relacionadas: **Cenargen (Embrapa)** e **Equipe de desenvolvimento d
 
 | Representante | Atuação no Projeto | E-mail |
 |---|---|---|
-| Felipe Tolentino Soares | SM (Dev Team) — Front/Back | felipe.tolentino@sempreceub.com |
+| Felipe Tolentino Soares | Coordenador - Documentador | felipe.tolentino@sempreceub.com |
 | Lucas Andrade Fonseca | Arquiteto (Dev Team) — Front/Back | lucas.afonseca@sempreceub.com |
 | Lucas Daniel Paiva de Sá | AD/DBA (Dev Team) — Front/Back | lucas.psa@sempreceub.com |
 | Luis Guilherme Andrade Palhares de Melo | PO (Dev Team) — Front/Back | luis.pmelo@sempreceub.com |
-| Miguel Artur de Castro Miranda | Dev Team | miguel.artur@sempreceub.com |
+| Miguel Artur de Castro Miranda | Documentador | miguel.artur@sempreceub.com |
 
 ## 7. Futuro
 

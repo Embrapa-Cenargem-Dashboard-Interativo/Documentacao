@@ -1,23 +1,25 @@
 <p align="center">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/227983be-5ccd-4f52-9757-c3374984d00d" />
+</p>
 
-  # Documento de Visão - Embrapa Cenargen: CVGWeb 
+# Documento de Visão - Embrapa Cenargen: CVGWeb 
 
-  **Centro Universitário de Brasília (CEUB)**  
-  **Data:** 27/08/2026  
-  **Disciplina:** Projeto Integrador IV  
-  **Semestre:** 8º semestre  
+**Centro Universitário de Brasília (CEUB)**  
+**Data:** 27/08/2026  
+**Disciplina:** Projeto Integrador IV  
+**Semestre:** 8º semestre  
 
-  **Professor/Orientador:** Tiago Leite Pereira
+**Professor/Orientador:** Tiago Leite Pereira
 
-  ### Alunos
+### Alunos
 
-  - Felipe Tolentino Soares
-  - Lucas Daniel Paiva de Sá
-  - Luis Guilherme Andrade Palhares de Melo
-  - Miguel Artur de Castro Miranda
-  - Lucas Andrade Fonseca
+- Felipe Tolentino Soares
+- Lucas Daniel Paiva de Sá
+- Luis Guilherme Andrade Palhares de Melo
+- Miguel Artur de Castro Miranda
+- Lucas Andrade Fonseca
 
+<p align="center">
   <img width="279" height="214" alt="image" src="https://github.com/user-attachments/assets/87016265-0975-4bcd-ba32-23aa73e456a6" />
 </p>
 
